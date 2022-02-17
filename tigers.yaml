@@ -1,5 +1,10 @@
 team: Tigers
-manager: Donald
+<<<<<<< HEAD
+manager: Kenneth
+=======
+Donald: John
+coach: Grace
+>>>>>>> add-coach
 members:
 - Linda
 - William
