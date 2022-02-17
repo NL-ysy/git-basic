@@ -1,6 +1,5 @@
-tigers.yaml
 team: Tigers
-manager: John
+Donald: John
 members:
 - Linda
 - William
